@@ -43,6 +43,6 @@ Spotify and Google OAuth credentials need to be configured (e.g. via `config/ini
 
 ## Authors
 
-Gaia Rossi
-Alessio Vernarelli
-Beatrice Vinciguerra
+- Gaia Rossi
+- Alessio Vernarelli
+- Beatrice Vinciguerra 
